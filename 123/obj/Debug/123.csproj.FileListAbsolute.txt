@@ -1,0 +1,8 @@
+E:\Code\WORK22\123\bin\Debug\123.exe.config
+E:\Code\WORK22\123\bin\Debug\123.exe
+E:\Code\WORK22\123\bin\Debug\123.pdb
+E:\Code\WORK22\123\obj\Debug\123.csproj.AssemblyReference.cache
+E:\Code\WORK22\123\obj\Debug\123.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\123\obj\Debug\123.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\123\obj\Debug\123.exe
+E:\Code\WORK22\123\obj\Debug\123.pdb

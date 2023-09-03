@@ -1,0 +1,8 @@
+E:\Code\WORK22\ZaDaChA_if_else\obj\Debug\ZaDaChA_if_else.csproj.AssemblyReference.cache
+E:\Code\WORK22\ZaDaChA_if_else\obj\Debug\ZaDaChA_if_else.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\ZaDaChA_if_else\obj\Debug\ZaDaChA_if_else.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\ZaDaChA_if_else\bin\Debug\ZaDaChA_if_else.exe.config
+E:\Code\WORK22\ZaDaChA_if_else\bin\Debug\ZaDaChA_if_else.exe
+E:\Code\WORK22\ZaDaChA_if_else\bin\Debug\ZaDaChA_if_else.pdb
+E:\Code\WORK22\ZaDaChA_if_else\obj\Debug\ZaDaChA_if_else.exe
+E:\Code\WORK22\ZaDaChA_if_else\obj\Debug\ZaDaChA_if_else.pdb

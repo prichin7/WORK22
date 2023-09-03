@@ -1,0 +1,8 @@
+E:\Code\WORK22\Zadacha 2\bin\Debug\Zadacha 2.exe.config
+E:\Code\WORK22\Zadacha 2\bin\Debug\Zadacha 2.exe
+E:\Code\WORK22\Zadacha 2\bin\Debug\Zadacha 2.pdb
+E:\Code\WORK22\Zadacha 2\obj\Debug\Zadacha 2.csproj.AssemblyReference.cache
+E:\Code\WORK22\Zadacha 2\obj\Debug\Zadacha 2.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\Zadacha 2\obj\Debug\Zadacha 2.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\Zadacha 2\obj\Debug\Zadacha 2.exe
+E:\Code\WORK22\Zadacha 2\obj\Debug\Zadacha 2.pdb

@@ -1,0 +1,8 @@
+E:\Code\WORK22\random\bin\Debug\random.exe.config
+E:\Code\WORK22\random\bin\Debug\random.exe
+E:\Code\WORK22\random\bin\Debug\random.pdb
+E:\Code\WORK22\random\obj\Debug\random.csproj.AssemblyReference.cache
+E:\Code\WORK22\random\obj\Debug\random.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\random\obj\Debug\random.exe
+E:\Code\WORK22\random\obj\Debug\random.pdb

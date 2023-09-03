@@ -1,0 +1,8 @@
+E:\Code\WORK22\ДЗ НОМЕР 3\bin\Debug\ДЗ НОМЕР 3.exe.config
+E:\Code\WORK22\ДЗ НОМЕР 3\bin\Debug\ДЗ НОМЕР 3.exe
+E:\Code\WORK22\ДЗ НОМЕР 3\bin\Debug\ДЗ НОМЕР 3.pdb
+E:\Code\WORK22\ДЗ НОМЕР 3\obj\Debug\ДЗ НОМЕР 3.csproj.AssemblyReference.cache
+E:\Code\WORK22\ДЗ НОМЕР 3\obj\Debug\ДЗ НОМЕР 3.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\ДЗ НОМЕР 3\obj\Debug\ДЗ НОМЕР 3.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\ДЗ НОМЕР 3\obj\Debug\ДЗ НОМЕР 3.exe
+E:\Code\WORK22\ДЗ НОМЕР 3\obj\Debug\ДЗ НОМЕР 3.pdb

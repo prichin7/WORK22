@@ -1,0 +1,8 @@
+E:\Code\WORK22\if false\bin\Debug\if false.exe.config
+E:\Code\WORK22\if false\bin\Debug\if false.exe
+E:\Code\WORK22\if false\bin\Debug\if false.pdb
+E:\Code\WORK22\if false\obj\Debug\if false.csproj.AssemblyReference.cache
+E:\Code\WORK22\if false\obj\Debug\if false.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\if false\obj\Debug\if false.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\if false\obj\Debug\if false.exe
+E:\Code\WORK22\if false\obj\Debug\if false.pdb

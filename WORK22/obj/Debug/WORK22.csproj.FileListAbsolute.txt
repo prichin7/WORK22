@@ -1,0 +1,7 @@
+E:\Code\WORK22\WORK22\bin\Debug\WORK22.exe.config
+E:\Code\WORK22\WORK22\bin\Debug\WORK22.exe
+E:\Code\WORK22\WORK22\bin\Debug\WORK22.pdb
+E:\Code\WORK22\WORK22\obj\Debug\WORK22.csproj.AssemblyReference.cache
+E:\Code\WORK22\WORK22\obj\Debug\WORK22.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\WORK22\obj\Debug\WORK22.exe
+E:\Code\WORK22\WORK22\obj\Debug\WORK22.pdb

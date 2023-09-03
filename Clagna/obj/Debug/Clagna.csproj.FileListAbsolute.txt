@@ -1,0 +1,8 @@
+E:\Code\WORK22\Clagna\bin\Debug\Clagna.exe.config
+E:\Code\WORK22\Clagna\bin\Debug\Clagna.exe
+E:\Code\WORK22\Clagna\bin\Debug\Clagna.pdb
+E:\Code\WORK22\Clagna\obj\Debug\Clagna.csproj.AssemblyReference.cache
+E:\Code\WORK22\Clagna\obj\Debug\Clagna.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\Clagna\obj\Debug\Clagna.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\Clagna\obj\Debug\Clagna.exe
+E:\Code\WORK22\Clagna\obj\Debug\Clagna.pdb

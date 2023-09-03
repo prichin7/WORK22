@@ -1,0 +1,8 @@
+E:\Code\WORK22\Musor\bin\Debug\Musor.exe.config
+E:\Code\WORK22\Musor\bin\Debug\Musor.exe
+E:\Code\WORK22\Musor\bin\Debug\Musor.pdb
+E:\Code\WORK22\Musor\obj\Debug\Musor.csproj.AssemblyReference.cache
+E:\Code\WORK22\Musor\obj\Debug\Musor.csproj.SuggestedBindingRedirects.cache
+E:\Code\WORK22\Musor\obj\Debug\Musor.csproj.CoreCompileInputs.cache
+E:\Code\WORK22\Musor\obj\Debug\Musor.exe
+E:\Code\WORK22\Musor\obj\Debug\Musor.pdb
