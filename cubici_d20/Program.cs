@@ -66,7 +66,7 @@ namespace cubici_d20
                     Console.WriteLine($"у вас выпало {d100}");
                 }
 
-                
+                // Я люблю в попку
 
             }
         }
