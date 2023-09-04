@@ -6,3 +6,10 @@ E:\Code\WORK22\cubici_d20\obj\Debug\cubici_d20.csproj.SuggestedBindingRedirects.
 E:\Code\WORK22\cubici_d20\obj\Debug\cubici_d20.csproj.CoreCompileInputs.cache
 E:\Code\WORK22\cubici_d20\obj\Debug\cubici_d20.exe
 E:\Code\WORK22\cubici_d20\obj\Debug\cubici_d20.pdb
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\bin\Debug\cubici_d20.exe.config
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\bin\Debug\cubici_d20.exe
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\bin\Debug\cubici_d20.pdb
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\obj\Debug\cubici_d20.csproj.AssemblyReference.cache
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\obj\Debug\cubici_d20.csproj.CoreCompileInputs.cache
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\obj\Debug\cubici_d20.exe
+C:\AllDowdnloads\csProj\WORK22\cubici_d20\obj\Debug\cubici_d20.pdb
